@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me github
 - 😄 Pronouns: ...Mr
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...112
 
 <!---
 vat72926/vat72926 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
